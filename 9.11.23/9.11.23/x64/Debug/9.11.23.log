@@ -1,0 +1,3 @@
+﻿  9.11.23.cpp
+D:\VisualStudioProjects\9.11.23\9.11.23\9.11.23.cpp(25,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  9.11.23.vcxproj -> D:\VisualStudioProjects\9.11.23\x64\Debug\9.11.23.exe
